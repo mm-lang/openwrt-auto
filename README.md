@@ -13,7 +13,7 @@ Build OpenWrt using GitHub Actions
 
 ## 第一次
 您可以下载.config节省您的时间进行actions
-如有问题请及时提交
+- 如有问题请及时提交
 
 ## Thanks
 - 感谢p3terx大佬
