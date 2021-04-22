@@ -10,6 +10,7 @@ Build OpenWrt using GitHub Actions
 
 ## what is this？
 - actions界面里有自动编译的适用于树莓派4b的固件
+- 作废了，建议用sulinggg大佬的
 
 ## 第一次
 您可以下载.config节省您的时间进行actions
